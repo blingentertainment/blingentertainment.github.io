@@ -16,7 +16,6 @@ facebook.com, 1628327730754812, DIRECT, c3e20eee3f780d68
 facebook.com, 1953763124938106, DIRECT, c3e20eee3f780d68
 facebook.com, 402494555675672, DIRECT, c3e20eee3f780d68
 facebook.com, 408924108046991, DIRECT, c3e20eee3f780d68
-fkljhsdlkfhsdkflhsjklfhsdjkflhsd.com, pub-8310690560439841, DIRECT, f08c47fec0942fa0232
 fyber.com,213862,DIRECT
 g-global.net, 20668, DIRECT
 google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
