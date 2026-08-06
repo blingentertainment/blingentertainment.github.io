@@ -1,5 +1,6 @@
 33across.com, 001Pg00001bAsXcIAK, DIRECT, bbea06d9c4d2853c
 acunexus.com, 0353ab4cbed5beae847a7ff6e220b5cf38074, DIRECT
+google.com, pub-6104612935401296, DIRECT, f08c47fec0942fa0
 adingenious.com, 41772, DIRECT
 adscholars.com, 230909, DIRECT
 adsmartx.ai, 687741, DIRECT
