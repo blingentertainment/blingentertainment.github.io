@@ -2,7 +2,7 @@ OWNERDOMAIN=blingentertainment.github.io
 CONTACT=blingenter25@outlook.com
 MANAGERDOMAIN=premiumads.com
 INVENTORYPARTNERDOMAIN=premiumads.com
-google.com, pub-6104612935401296, DIRECT, f08c47fec0942fa0
+
 152media.info, 152M1093, RESELLER
 152media.info, 152M1121, RESELLER
 152media.info, 152M1134, RESELLER
@@ -1024,6 +1024,7 @@ google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
 google.com, pub-5970696114520001, RESELLER, f08c47fec0942fa0
+google.com, pub-6104612935401296, DIRECT, f08c47fec0942fa0
 google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 google.com, pub-7734005103835923, RESELLER
 google.com, pub-7983651257838282, RESELLER
